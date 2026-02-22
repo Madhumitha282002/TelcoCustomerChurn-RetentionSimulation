@@ -1,4 +1,4 @@
-# Te# 📊 Telecom Customer Churn Prediction & Revenue Optimization
+# 📊 Telecom Customer Churn Prediction & Revenue Optimization
 
 ---
 
